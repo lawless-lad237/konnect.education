@@ -1,0 +1,6 @@
+name = "konnect-education-static"
+compatibility_date = "2026-05-18"
+
+[assets]
+directory = "."
+not_found_handling = "404-page"
