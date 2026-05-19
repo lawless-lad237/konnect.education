@@ -1,5 +1,6 @@
 name = "konnect-education-static"
 compatibility_date = "2026-05-18"
+pages_build_output_dir = "."
 
 [assets]
 directory = "."
