@@ -1,0 +1,12 @@
+{
+  "name": "konnect.education-static",
+  "private": true,
+  "version": "1.0.1",
+  "description": "Static export for Cloudflare Pages deployment.",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "build": "node -e \"console.log('Static site detected; no build step required.')\""
+  }
+}
